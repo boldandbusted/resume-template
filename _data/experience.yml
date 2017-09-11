@@ -1,19 +1,583 @@
 # Jobs
-# Springfield Nuclear Power Plant
-- company: Springfield Nuclear Power Plant
-  position: Safety Inspector
-  duration: Nov, 1980 &mdash; Present
-  summary: Write about your core competencies in one or two sentences describing your position. If you held the position for a long time, it could be a longer section, including a couple bullet points	<ul class="resume-item-list"><li>Ate lots of donuts</li><li>Fell asleep rarely</li><li>Left promptly at end of day (sometimes earlier)</li></ul>
+- company: <a href="http://www.ripple.com">Ripple, Inc.</a>
+  position: Senior Technical Operations Engineer
+  duration: June, 2015 &mdash; February, 2016
+  summary: "For a blockchain-enhanced, cryptocurrency-based financial services startup, I worked as lead on projects to automate rapid, reliable deployment.
+  <ul>
+<li>Continued my deep dive into Chef and Ruby.</li>
+<li>Utilized Test Kitchen for all code, and implemented code reviews for infrastructure code.</li>
+<li>Transitioned live cluster network of Ripple protocol clients from single bare-metal provider to SoftLayer.</li>
+<li>Began work on implementing Chef Provisioner for machine provisioning with Softlayer and Amazon AWS/EC2.</li>
+<li>Saved them a bunch of fiat money by decommissioning almost one hundred orphaned servers and services.</li>
+<li>Mentored sharp Desktop IT Admin on Operations concepts and career (thanks to the master SysAdmin Tom Limoncelli and crew's books).</li>
+</ul>"
 
-# Windmill Crank Operator
-- company: Sir Putt-A-Lot's Merrie Olde Fun Centre
-  position: Safety Inspector
-  duration:  Jun, 1978 &mdash; Sept, 1979
-  summary: If your stint was shorter, feel free to be brief and just call out the most meaningful points of your role. Be concise, and be meaninful. The person reading just needs enough to want to talk to you more about your experience.
+
+- company: Hello.com 
+  position: Productivity and Systems Engineer
+  duration: August 2014 &mdash; May 2015
+  summary: '<p class="Duty">Stealth social startup in SF and Palo Alto, venture-backed by Google. I was the first non-Google engineer hired in the Palo Alto office.</p>
+	<ul>
+	  <li>Learned Chef, utilizing Test Kitchen + Vagrant</li>
+	  <li>Migrated all Hello code to a GitHub Private Repo</li>
+	  <li>Performed in-depth 3rd-party development and productivity tool evaluations</li>
+	  <li>Linux SysAdmin/DevOps process introductions, advising development team on infrastructure impacts.</li>
+	  <li>Transformed in-house build scripts to Travis-CI.com YAML for both mobile client (iOS) builds and backend server builds (Java w/ Ant, yeah, I know, meh).</li>
+	  <li>Moved production onto RightScale, which included moving to Percona MySQL Server, database replication farm, large storage arrays with GlusterFS, and all on Google Compute Engine.</li>
+	  <li>Oversaw deployment of New Relic OS Agent on all Linux servers, on Java/Tomcat applications, and on Mobile iOS client. (New Relic captures EVERY crash!)</li>
+	  <li>Negotiated costs with vendors. LOTS of automation.</li>
+	</ul>'
 
 
-# Front Desk Attendant
-- company: Simpson Lazer Tag
-  position: Front Desk Attendant
-  duration:   Jun, 1975  &mdash; May, 1978
-  summary: Boy, when Marge first told me she was going to the Police Academy, I thought it would be fun and exciting, you know, like the movie... Spaceballs. But instead, it's been painful and disturbing, like the movie Police Academy.
+- company: <a href="http://www.collab.net/">Collab.Net, Inc.</a>
+  position: Senior Linux Systems Engineer
+  duration:  August 2011 &mdash; August 2014
+  summary: '<p class="Duty">Oversaw legacy site "Codesion.com" aka "CVSDude"
+	transition after acquisition, to become "cloudforge.com".</p>
+	<ul>
+	  <li>Handled a large amount of technical debt, paid some of it down,
+	    and helped to plan out how to pay the remainder.  </li>
+	  <li>Tuned MySQL, stopping database issues cold.  </li>
+	  <li>Unrusted my RedHat skills, though I wish them rusted again.  </li>
+	  <li>Converted RedHat Enterprise stack to CentOS *in-place*. </li>
+	  <li>Unfroze package upgrade process, which had been frozen in place by fear for over a year. </li>
+	  <li>48 Real servers and 5 "cloud" virtualized servers at SoftLayer, in multiple datacenters. </li>
+	  <li>Learned Puppet (they sent me to a PuppetLabs course, which was nice), and used knowledge to completely
+	    revamp existing Puppet legacy infrastructure.</li>
+	</ul>'
+
+
+- company: '<a href="http://www.giantrabbit.com/">Giant
+	Rabbit, LLC</a>, Berkeley, CA (via my company <a href=
+	"http://www.boldandbusted.com/">Bold and Busted, LLC</a>)'
+  position: System Architect/Systems Administrator/Computer Duster
+  duration: April 2009 &mdash; September 2011
+  summary: "For a IT consulting company dedicated to
+	supporting non-profits with size-appropriate technology, work
+	with over a dozen Bay Area non-profit clients (and one
+	international client) to put out fires, architect solid
+	solutions, and provide excellent documentation and personable
+	service. Prominent clients included <a href=
+	\"http://www.yep.org\">Youth Employment Partnership of Oakland,
+	Inc.</a>, <a href=\"http://www.whrc-access.org/\">ACCESS Women's
+	Health Justice</a>, and over a dozen others on an as-needed
+basis."
+
+
+- company: <a href="http://www.kiva.org/">Kiva Microfunds, Inc.</a>, San Francisco, CA
+  position: Systems Administrator/IT Manager
+  duration: March 2008 &mdash; October 2008
+  summary: "For a prominent non-profit micro-finance
+	lending web site, supported and improved internal and
+	production systems.</p>
+
+	<ul>
+	  <li>Built out and migrated to new web and database server
+	    architecture, based on CentOS 5.1, Apache 2.2, Zend PHP and
+	    MySQL 5, from previous single-host legacy host on CentOS
+	    4.4</li>
+
+	  <li>Implemented load-balancing across web hosts</li>
+
+	  <li>Implemented MySQL replication, MAATKIT MySQL tools</li>
+
+	  <li>Implemented Nagios, NagiosQL, Cacti and custom Cacti HTTP
+	    transaction latency scripts and graphs</li>
+
+	  <li>Tuned Apache, PHP and MySQL, based on load, informed by
+	    benchmarks and organizational goals</li>
+
+	  <li>Implemented log file summarizers pflogsumm and logwatch,
+	    improving visibility into production system health for
+	    development team</li>
+
+	  <li>Documented system build out recipes and architecture
+	    overviews</li>
+
+	  <li>Implemented the use of Subversion for configuration file
+	    change control</li>
+
+	  <li>Created code deployment scripts</li>
+
+	  <li>Initiated alternative co-location vendor
+	    communications</li>
+
+	  <li>Identified administration and performance problems with
+	    locked-down virtualized guest hosts and lack of visibility
+	    into system performance metrics</li>
+
+	  <li>For office network, implemented Windows Active Directory
+	    roaming profiles and JungleDisk corporate backups to Amazon
+	    S3, as well as switching virus scanning to Kaspersky
+	    AntiVirus for all Microsoft Windows systems</li>
+	</ul>"
+
+
+- company: <a href="http://www.wunderground.com/">Weather Underground, Inc.</a>, San Francisco, CA
+  position: Systems Administrator
+  duration: September 2007 &mdash; March 2008
+  summary: "For one of the oldest weather sites on the Web,
+	support existing systems and network devices, assist software
+	developers and assist the Director of Technology in maintaining
+	three data centers.</p>
+
+	<ul>
+	  <li>Cleaned main data center of old hardware, including
+	    rack-mount servers and network equipment; arranged pickup and
+	    reuse by local 501(c)(3) charity (<a href=
+	    \"http://wwww.otxwest.com/\">OTX-WEST</a>), which I
+	  selected.</li>
+
+	  <li>Supported PXELINUX diskless systems (loosely based on
+	    Slackware 9.1).</li>
+
+	  <li>Implemented NTPd (with multicast updates) across diskless
+	    hosts.</li>
+
+	  <li>Created more streamlined and tuned diskless-oriented
+	    Linux Kernel builds.</li>
+
+	  <li>Streamlined BIND configuration files for ease of updates
+	    and standardized shared options, and implemented master/slave
+	    BIND servers with NOTIFY updates to slaves and to ISP DNS
+	    servers.</li>
+
+	  <li>Assisted with BIOS reconfigurations to fix boot up
+	    problems, and tuning for PCI Express.</li>
+
+	  <li>Upgraded internal MediaWiki instance to latest
+	    version.</li>
+
+	  <li>Documented previously under-documented systems.</li>
+
+	  <li>Handled system and application outages.</li>
+
+	  <li>Assisted with planned data center power outage.</li>
+
+	  <li>Proposed and implemented home-grown Highly Available NFS
+	    filer with RAID5 providing 5.4 TB usable storage, using
+	    Gentoo Linux, Heartbeat, DRBD, and Areca 1220 RAID controller
+	    cards with RAID battery backup unit, on two servers with
+	    virtual IP failover. Provided benchmarks, determining better
+	    hardware RAID controller models and facilitating kernel
+	    tuning.</li>
+
+	  <li>Improved communications from Operations to the
+	    development and application teams.</li>
+
+	  <li>Fixed a variety of problems with NFS, recommended
+	    standard client mount options.</li>
+
+	  <li>Advised senior staff on system performance and
+	    administration process improvements.</li>
+
+	  <li>Upgraded Awstats, and rewrote automated log processing
+	    Bash shell scripts, using \"Trampoline\"-style looping
+	    constructs to maximize usage of all CPU cores, while
+	    minimizing impact on server resources. Initiated use of
+	    non-memory intensive and non-disk intensive web server log
+	    aggregation tools. Log processing time cut by a two-thirds,
+	    and solved inconsistent data representation.</li>
+
+	  <li>Coordinated vendor on-site maintenance and upgrades.</li>
+
+	  <li>Server upgrades and service migrations (Slackware 9.1 to
+	    12.0), including Sendmail, milter, and Apache, and internal
+	    user directories.</li>
+
+	  <li>Assisted developers with proper system utility usage, and
+	    developer virtual machine development OS instances.</li>
+
+	  <li>Racked, cabled and configured servers, and performed
+	    general hardware upgrades.</li>
+	</ul>"
+
+
+- company: <a href="http://www.jumpcut.com/">Jumpcut.com</a> (n&eacute;e Yahoo, Inc.), San Francisco, CA
+  position: Systems and Network Engineer
+  duration: July 2006 &mdash; April 2007
+  summary: "For a \"Web 2.0\" video editing, sharing, and
+	community startup, supported systems and network devices, and
+	assisted software development.</p>
+
+	<ul>
+	  <li>Production applications supported include Apache 2.0.X,
+	    PHP 5.X, MySQL 5.X, all running under Gentoo Linux</li>
+
+	  <li>Performed testing and configuration optimization</li>
+
+	  <li>Polished Cacti and Nagios implementations, implemented
+	    teMySQL templates, and created a custom script, data sources
+	    and templates for HTTP latency graphing</li>
+
+	  <li>Implemented new Apache SSL hosts</li>
+
+	  <li>Implemented OpenVPN LAN-to-LAN VPN between office and
+	    co-location facility</li>
+
+	  <li>Created \"chroot jails\" for various production
+	    applications, using the <a href=
+	    \"http://www.jmcresearch.com/projects/jail/\">Jail shell</a>,
+	  sudo, and a bit of shell scripting, with an aim to make safer
+	  calls from production applications to external
+	  applications</li>
+
+	  <li>Implemented SQLGrey for managed Postfix Grey-listing</li>
+
+	  <li>Added secondary backup \"store-and-forward\" Postfix MTA
+	    with SQLGrey integration</li>
+
+	  <li>Worked with CTO on development of applications, including
+	    creating development environments using VMWare, WINE and Xorg
+	    X11 drivers</li>
+
+	  <li>Implemented OpenWrt (http://www.openwrt.org/) on office
+	    router</li>
+
+	  <li>Managed corporate desktop systems migration to Yahoo's
+	    infrastructure</li>
+
+	  <li>Configured Yahoo's custom Apache and PHP, and deployed
+	    site code to Yahoo! production systems as a part of Yahoo's
+	    acquisition of Jumpcut</li>
+
+	  <li>Wiki'd documentation of systems and project planning</li>
+	</ul>"
+
+    
+- company: Verizon Business (n&eacute;e Totality, Inc), San Francisco, CA</a>, via Taos Mountain, Inc.
+  position: Senior Systems Engineer
+  duration: December 2005 &mdash; July 2006
+  summary: "Supported Verizon Business Managed Service
+	Provider clients, such as the Gap, Best Buy, American Airlines,
+	and many others, in a Service Level Agreement model:</p>
+
+	<ul>
+	  <li>Improved production procedures documentation and
+	    process</li>
+
+	  <li>Supported business-critical Solaris, Red Hat Linux,
+	    HP-UX, AIX, and Windows systems and applications.
+	    &ldquo;Unrusted&rdquo; proprietary UNIX skillset</li>
+
+	  <li>Suggested, and helped pilot, Plone/Zope CMS for
+	    replacement of aging CVS-updated AFT/HTML documentation
+	    system. Worked with Perl programmer to create automated site
+	    scraping for deployment of read-only version of Plone site,
+	    using Bash, cron and wget</li>
+
+	  <li>Resolved client issues alongside database administrators
+	    and network engineers</li>
+
+	  <li>Trained new systems engineers</li>
+
+	  <li>Consistently high marks from management</li>
+	</ul>"
+
+
+- company: <a href="http://www.riverbed.com/">Riverbed, Inc</a>, San Francisco, CA
+  position: Systems Administration Consultant
+  duration: March 2005 &mdash; June 2005
+  summary: "Advised on and implemented the following
+	services:
+
+	<ul>
+	  <li>Assisted the Systems Administrator in closing a backlog
+	    of requests</li>
+
+	  <li>Implemented a spam flagging system using Postfix and
+	    DSPAM</li>
+
+	  <li>Upgraded internally-facing wiki (TWiki) to latest stable
+	    version</li>
+
+	  <li>Implemented a VPN solution with OpenVPN, and added to the
+	    OpenVPN codebase</li>
+
+	  <li>Documented progress and systems with Bugzilla and
+	    TWiki</li>
+	</ul>"
+
+- company: <a href="http://www.gene.com/">Genentech, Inc.</a>, South San Francisco, CA 
+  position: Deployment Engineer (Consultant)
+  duration: July 2003 &mdash; June 2004
+  summary:  "Contracted by former full-time supervisor:</p>
+
+	<ul>
+	  <li>Packaged and deployed difficult multi-layered software to
+	    over 1200 Windows workstations, in a validated, controlled
+	    and FDA-regulated environment</li>
+
+	  <li>Wrote Perl scripts to automate local configuration
+	    changes and systems administration on Windows
+	    workstations</li>
+
+	  <li>Prototyped and assisted in the evaluation of Gentoo
+	    Linux/Zope Content Management Frameworks development and
+	    staging servers</li>
+
+	  <li>Managed Linux development server relocation to data
+	    center</li>
+	</ul>"
+
+- company: <a href="http://bixbycenter.ucsf.edu/index.html">Center for Reproductive Health Research &amp; Policy</a>, University of California, San Francisco
+  position: Systems Administrator (Consultant)
+  duration: October 2002 &mdash; November 2003
+  summary:  "Contracted to provide the following services
+	for PhD-level researchers and staff:</p>
+
+	<ul>
+	  <li>Proposed and implemented web-based full-featured shared
+	    calendaring system
+
+	    <ul>
+	      <li>Reduced costs by re-purposing older hardware</li>
+
+	      <li>Used Red Hat GNU/Linux 7.3., stripped down to HTTP,
+		HTTPS, NTP and SSH network services, with Big Brother
+		1.9c for monitoring</li>
+
+	      <li>Installed and configured <a href=
+	      \"http://www.math.utexas.edu/webcalendar/\">Web
+	      Calendar</a></li>
+
+	      <li>Used iptables to restrict access and usage to two
+		subnets</li>
+	    </ul>
+	  </li>
+
+	  <li>Prototyped web-based survey system <a href=
+    \"https://web.archive.org/web/20071006214224/http://gathering.itm.mh.se:80/modsurvey/\">Mod_Survey</a> (defunct)</li>
+
+	  <li>Created role-based shared folders with Windows 2000/XP
+	    \"Offline Files\" functionality</li>
+
+	  <li>Security assessments, using a variety of tools, including
+	    Nessus, nmap and Ettercap</li>
+
+	  <li>User Training (very high marks!)</li>
+	</ul>"
+ 
+- company: Denalii, Inc. (defunct), Burlingame, CA
+  position: Senior Systems Engineer
+  duration: March 2001 &mdash; March 2002
+  summary: "Responsible for the following systems and
+	services for heterogeneous Production network:
+
+	<ul>
+	  <li>Network Applications: BIND 8, ProFTPd, Apache, NTP,
+	    OpenSSH/SFTP</li>
+
+	  <li>Web Application Platform: Oracle 8, Orion Application
+	    Server, Apache, PHP 4, Sawmill web log analyzer</li>
+
+	  <li>System Monitoring: Big Brother, Syslog (centralized)</li>
+
+	  <li>Hardware: Sun/Intel</li>
+
+	  <li>Operating Systems: Solaris 8, Red Hat Linux 6.2 &amp;
+	    7.1</li>
+
+	  <li>Network devices: Cisco (3600 Routers, 4006 Smart
+	    Switches, ArrowPoint load balancers), Netscreen 100
+	    firewalls</li>
+	</ul>
+
+	Supervised the following projects:
+
+	<ul>
+	  <li>Rolled out NTP to all hosts, syncing to both internal
+	    servers and external time servers</li>
+
+	  <li>Rolled out Big Brother, for host monitoring, role-based
+	    paging, and uptime tracking</li>
+
+	  <li>Migrated HTML content from Roxen to Apache</li>
+
+	  <li>&ldquo;In-sourced&rdquo; corporate web site, DNS, and
+	    network administration (phased out SiteSmith)</li>
+
+	  <li>Performed and managed technical aspects of closing
+	    engineering-centered office</li>
+
+	  <li>Maintained production Perl environment, including module
+	    maintenance, configuration and updates (DBI, DBD::Oracle,
+	    MD5, etc.)</li>
+
+	  <li>Deployed applications onto Orion J2EE Application Server
+	    (1.5.2), resolved Windows-to-UNIX migration issues</li>
+
+	  <li>Quickly and thoroughly undid sloppy administration
+	    practices of previous Systems Administrator, including
+	    correcting bad kernel build from unstable kernel tree,
+	    remaking DNS structure and updating many applications for
+	    security and bugfixes</li>
+
+	  <li>Implemented security policies, including password aging
+	    and auditing, regular Nessus scanning, regular network packet
+	    sniffing using snoop (Solaris), tcpdump (Linux), Ethereal for
+	    capture and analysis (Linux &amp; Windows), and nmap (both
+	    external and internal network service scanning)</li>
+
+	  <li>Kept documentation up to date. Worked closely with Senior
+	    Oracle DBA to both maintain and improve current Oracle
+	    administration on Solaris, rolled-out Oracle on Linux, and
+	    also trained her on more advanced Systems Administration
+	    tasks to act as my backup, and she trained me on more
+	    advanced Oracle administration techniques</li>
+	</ul>
+
+	<u>Special Note:</u>Helped guide developers on
+	architecture of logging and alerting systems to integrate with
+	existing Open Source tools, made use of Open Source solutions
+	for all appropriate areas, kept costs to a minimum, created
+	generally stronger and more closely held policies and
+	procedures for administration and maintenance of production
+	systems."
+
+- company: Zing Networks, Inc. (defunct), San Francisco, CA
+  position: Director of Network Operations (promoted)
+  duration: October 1999 &mdash; December 2000
+  summary: "Responsible for the following systems and
+	services:
+
+	<ul>
+	  <li>Network Applications: Apache, Squid (HTTP accelerator
+	    mode), Sendmail, BoldFish (mass e-mailing server),
+	    OpenSSH</li>
+
+	  <li>Web Application Platform: Apache, Squid, mod_perl, Mason,
+	    Oracle</li>
+
+	  <li>Monitoring/Reporting: Aria Web Tracking, Big Brother,
+	    MRTG, PIXlog, LogWatch, swatch</li>
+
+	  <li>Hardware: Mostly Intel, with Sun for Oracle (E4500
+	    primary, E3500 standby)</li>
+
+	  <li>Storage: EMC Symmetrix drive arrays and Celerra File
+	    Server, with 3 TB usable storage, Legato Networker with
+	    SpectraLogic Bullfrog AIT-1 tape jukebox</li>
+
+	  <li>Operating Systems: RedHat Linux 6.2, Solaris 7</li>
+
+	  <li>Network devices: Cisco PIX firewalls, Foundry Networks
+	    (ServerIron (Layer 7 switch), NetIron (Layer 3 switch), 3Com
+	    BayStack 350 (Layer 3 switch), point-to-point T1</li>
+
+	  <li>Vendor Relationships: Exodus, VALinux, Sun, SiteSmith,
+	    Redapt, GlobalCenter, Envive, Akamai, CDW</li>
+	</ul>
+
+	Supervised the following projects:
+
+	<ul>
+	  <li>Rolled out of new EMC Symmetrix node, adding 1.5TB of
+	    usable storage for photo &amp; video storage</li>
+
+	  <li>Added SiteSmith to maintain high levels of uptime and
+	    support</li>
+
+	  <li>Planned Globalization of Zing's Network (Japan, Europe
+	    and US East Coast)</li>
+
+	  <li>Evaluated and recommended move to new data center
+	    (GlobalCenter to replace Exodus Communications)</li>
+
+	  <li>Supervised install and maintained Aria Web Monitoring
+	    system</li>
+
+	  <li>Akamized new sites static content</li>
+
+	  <li>Supervised two Sr. Unix/Network Administrator
+	    contractors</li>
+	</ul>
+      </div>
+
+      <div>
+
+	Implemented the following office network systems from the ground up:
+
+	<ul>
+	  <li>VPN with Compatible System's (now owned by Cisco)
+	    IntraPort 2 VPN router, with Win 95/98, NT 4.0, Linux and Mac
+	    clients</li>
+
+	  <li>MS Exchange 5.5 SP3, with TrendMicro's ScanMail for
+	    Exchange 3.0, Outlook Web Access</li>
+
+	  <li>Mapped external site e-mails to Exchange Public
+	    Folders</li>
+
+	  <li>Rolled out Outlook 2000, gave 3 classes for users, with
+	    rave reviews</li>
+
+	  <li>ARCServeIT 6.61 for NT, using OFA, Exchange Client,
+	    Client for UNIX (Solaris), Tape Library Option (with 30-slot
+	    SpectraLogic Treefrog tape autoloader with 1 AIT-2 drive) on
+	    5-day Differential rotation</li>
+
+	  <li>Reduced PC architecture to 3 major vendors (Dell, Apple,
+	    IBM), and 5 models tailored to company needs</li>
+
+	  <li>Created PC purchasing forms and procedures</li>
+
+	  <li>McAfee's Total Virus Defense, managed from McAfee Network
+	    Management Console</li>
+
+	  <li>BoldFish mass-mail server for Linux</li>
+
+	  <li>Negotiated Microsoft Open License</li>
+
+	  <li>Employee Purchase Program with CDW</li>
+	</ul>
+
+	Supported the following:
+
+	<ul>
+	  <li>Microsoft DNS &amp; DNS/DHCP/WINS (maintained static
+	    routes, migrated DNS to new server)</li>
+
+	  <li>Apache 1.3.12 on Linux, IIS 4.0</li>
+
+	  <li>2 NT Domains, with 9 NT 4.0 SP6a servers and 50 desktop
+	    and notebook PCs and 6 Macs</li>
+
+	  <li>HP EtherJet (installed internal and external print device
+	    servers)</li>
+
+	  <li>Installed &amp; maintained co-located servers at Exodus
+	    Communications in Santa Clara</li>
+
+	  <li>BigBrother Network Monitor on Linux</li>
+	</ul>
+
+	<u>Special Note:</u> Supervised office Cat 5
+	Ethernet re-configuration &amp; deployment, negotiated
+	cost-effective vendor relationships, stopped company virus
+	problems COLD, smooth transition from Netscape Messaging Server
+	3.62 to Exchange 5.5 SP3. Promoted from Systems Administrator
+	(internal) to UNIX Systems Administrator for Production (public
+	web site). Y2K updates. Supported 3 US offices, 1 Israeli
+	office."
+
+- company:
+  position:
+  duration:
+  summary:
+- company:
+  position:
+  duration:
+  summary:
+- company:
+  position:
+  duration:
+  summary:
+- company:
+  position:
+  duration:
+  summary:
+- company:
+  position:
+  duration:
+  summary:
