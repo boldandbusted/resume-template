@@ -1,4 +1,17 @@
 # Jobs
+- company: <a href="https://abra.com/">Abra, Inc.</a>
+  position: Lead DevOops Engineer
+  duration: August, 2017 &mdash; Present
+  summary: "For a money transfer mobile app startup with bitcoin at its foundation, I worked with the VP of Engineering to automate processes, improve security stances and stabilize systems.
+  <ul>
+  <li>Implimented Trend Micro's Deep Security as a Service on all AWS hosts.</li>
+  <li>Isolated and remediated a security incident on development instance.</li>
+  <li>Implimented OpenVPN Access Server for Engineering.</li>
+  <li>Reccomended and configured pfSense Firewall for office network, with OpenVPN access.</li>
+  <li>Began refactoring inherited Terraform and Ansible infrastructure-as-code.</li>
+  <li>Opened discussions with various service vendors like JumpCloud for LDAP authentication and New Relic.</li>
+  </ul>"
+
 - company: <a href="http://www.ripple.com">Ripple, Inc.</a>
   position: Senior Technical Operations Engineer
   duration: June, 2015 &mdash; February, 2016
