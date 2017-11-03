@@ -1,52 +1,52 @@
 # Jobs
+---
 - company: <a href="https://abra.com/">Abra, Inc.</a>
-  position: Lead DevOops Engineer
+  position: Systems Engineer (DevOps Lead)
   duration: August, 2017 &mdash; Present
-  summary: "For a money transfer mobile app startup with bitcoin at its foundation, I worked with the VP of Engineering to automate processes, improve security stances and stabilize systems.
+  summary: 'Reporting directly to the VP of Engineering, I helped automate processes, improved security stances and stabilized systems and workflows.
   <ul>
-  <li>Evaluated and implemented Trend Micro's Deep Security as a Service on all AWS hosts.</li>
-  <li>Discovered, isolated and remediated a pre-existing security incident on a critical development instance.</li>
-  <li>Implemented OpenVPN Access Server for Engineering.</li>
-  <li>Recommended and configured pfSense Firewall for office network, with OpenVPN access.</li>
-  <li>Began refactoring inherited Terraform and Ansible infrastructure-as-code.</li>
-  <li>Opened discussions with various service vendors like JumpCloud for LDAP authentication and New Relic.</li>
-  </ul>"
+    <li>Began refactoring inherited Terraform and Ansible infrastructure-as-code.</li>
+    <li>Began move to AWS IAM Roles for instances.</li>
+    <li>Evaluated and implemented Trend Micro&apos;s Deep Security as a Service on all AWS hosts.</li>
+    <li>Discovered, isolated and remediated a pre-existing security incident on a critical development instance.</li>
+    <li>Implemented OpenVPN Access Server for Engineering.</li>
+    <li>Recommended and configured pfSense Firewall for office network, with OpenVPN access.</li>
+    <li>Opened discussions with various service vendors like JumpCloud for LDAP authentication and New Relic.</li>
+    <li>Initiated "Best Practices" Epics for Security, AWS, Terraform, Ansible, and others to bring attention to practices and workflows.</li>
+  </ul>'
 
 - company: <a href="http://www.ripple.com">Ripple, Inc.</a>
   position: Senior Technical Operations Engineer
   duration: June, 2015 &mdash; February, 2016
-  summary: "For a blockchain-enhanced, cryptocurrency-based financial services startup, I worked as lead on projects to automate rapid, reliable deployment.
+  summary: 'For a blockchain-enhanced, cryptocurrency-based financial services startup, I worked as lead on projects to automate rapid, reliable deployment.
   <ul>
-<li>Continued my deep dive into Chef and Ruby.</li>
-<li>Utilized Test Kitchen for all code, and implemented code reviews for infrastructure code.</li>
-<li>Transitioned live cluster network of Ripple protocol clients from single bare-metal provider to SoftLayer.</li>
-<li>Began work on implementing Chef Provisioner for machine provisioning with Softlayer and Amazon AWS/EC2.</li>
-<li>Saved them a bunch of fiat money by decommissioning almost one hundred orphaned servers and services.</li>
-<li>Mentored sharp Desktop IT Admin on Operations concepts and career (thanks to the master SysAdmin Tom Limoncelli and crew's books).</li>
-</ul>"
-
+    <li>Continued my deep dive into Chef and Ruby.</li>
+    <li>Utilized Test Kitchen for all code, and implemented code reviews for infrastructure code.</li>
+    <li>Transitioned live cluster network of Ripple protocol clients from single bare-metal provider to SoftLayer.</li>
+    <li>Began work on implementing Chef Provisioner for machine provisioning with Softlayer and Amazon AWS/EC2.</li>
+    <li>Saved them a bunch of fiat money by decommissioning almost one hundred orphaned servers and services.</li>
+    <li>Mentored sharp Desktop IT Admin on Operations concepts and career (thanks to the master SysAdmin Tom Limoncelli and crew&apos;s books).</li>
+  </ul>'
 
 - company: Hello.com 
   position: Productivity and Systems Engineer
   duration: August 2014 &mdash; May 2015
-  summary: '<p class="Duty">Stealth social startup in SF and Palo Alto, venture-backed by Google. I was the first non-Google engineer hired in the Palo Alto office.</p>
-	<ul>
-	  <li>Learned Chef, utilizing Test Kitchen + Vagrant</li>
-	  <li>Migrated all Hello code to a GitHub Private Repo</li>
-	  <li>Performed in-depth 3rd-party development and productivity tool evaluations</li>
-	  <li>Linux SysAdmin/DevOps process introductions, advising development team on infrastructure impacts.</li>
-	  <li>Transformed in-house build scripts to Travis-CI.com YAML for both mobile client (iOS) builds and backend server builds (Java w/ Ant, yeah, I know, meh).</li>
-	  <li>Moved production onto RightScale, which included moving to Percona MySQL Server, database replication farm, large storage arrays with GlusterFS, and all on Google Compute Engine.</li>
-	  <li>Oversaw deployment of New Relic OS Agent on all Linux servers, on Java/Tomcat applications, and on Mobile iOS client. (New Relic captures EVERY crash!)</li>
-	  <li>Negotiated costs with vendors. LOTS of automation.</li>
-	</ul>'
-
+  summary: 'Stealth social startup in SF and Palo Alto, venture-backed by Google. I was the first non-Google engineer hired in the Palo Alto office.
+  <ul>
+    <li>Learned Chef, utilizing Test Kitchen + Vagrant</li>
+    <li>Migrated all Hello code to a GitHub Private Repo</li>
+    <li>Performed in-depth 3rd-party development and productivity tool evaluations</li>
+    <li>Linux SysAdmin/DevOps process introductions, advising development team on infrastructure impacts.</li>
+    <li>Transformed in-house build scripts to Travis-CI.com YAML for both mobile client (iOS) builds and backend server builds (Java w/ Ant, yeah, I know, meh).</li>
+    <li>Moved production onto RightScale, which included moving to Percona MySQL Server, database replication farm, large storage arrays with GlusterFS, and all on Google Compute Engine.</li>
+    <li>Oversaw deployment of New Relic OS Agent on all Linux servers, on Java/Tomcat applications, and on Mobile iOS client. (New Relic captures EVERY crash!)</li>
+    <li>Negotiated costs with vendors. LOTS of automation.</li>
+  </ul>'
 
 - company: <a href="http://www.collab.net/">Collab.Net, Inc.</a>
   position: Senior Linux Systems Engineer
-  duration:  August 2011 &mdash; August 2014
-  summary: '<p class="Duty">Oversaw legacy site "Codesion.com" aka "CVSDude"
-	transition after acquisition, to become "cloudforge.com".</p>
+  duration: August 2011 &mdash; August 2014
+  summary: 'Oversaw legacy site "Codesion.com" aka "CVSDude" transition after acquisition, to become "cloudforge.com".
 	<ul>
 	  <li>Handled a large amount of technical debt, paid some of it down,
 	    and helped to plan out how to pay the remainder.  </li>
@@ -55,35 +55,19 @@
 	  <li>Converted RedHat Enterprise stack to CentOS *in-place*. </li>
 	  <li>Unfroze package upgrade process, which had been frozen in place by fear for over a year. </li>
 	  <li>48 Real servers and 5 "cloud" virtualized servers at SoftLayer, in multiple datacenters. </li>
-	  <li>Learned Puppet (they sent me to a PuppetLabs course, which was nice), and used knowledge to completely
-	    revamp existing Puppet legacy infrastructure.</li>
+	  <li>Learned Puppet (they sent me to a PuppetLabs course, which was nice), and used knowledge to completely revamp existing Puppet legacy infrastructure.</li>
 	</ul>'
 
 
-- company: '<a href="http://www.giantrabbit.com/">Giant
-	Rabbit, LLC</a>, Berkeley, CA (via my company <a href=
-	"http://www.boldandbusted.com/">Bold and Busted, LLC</a>)'
+- company: <a href="http://www.giantrabbit.com/">Giant Rabbit, LLC</a>, Berkeley, CA (via my company <a href="http://www.boldandbusted.com/">Bold and Busted, LLC</a>)'
   position: System Architect/Systems Administrator/Computer Duster
   duration: April 2009 &mdash; September 2011
-  summary: "For a IT consulting company dedicated to
-	supporting non-profits with size-appropriate technology, work
-	with over a dozen Bay Area non-profit clients (and one
-	international client) to put out fires, architect solid
-	solutions, and provide excellent documentation and personable
-	service. Prominent clients included <a href=
-	\"http://www.yep.org\">Youth Employment Partnership of Oakland,
-	Inc.</a>, <a href=\"http://www.whrc-access.org/\">ACCESS Women's
-	Health Justice</a>, and over a dozen others on an as-needed
-basis."
-
+  summary: 'For a IT consulting company dedicated to supporting non-profits with size-appropriate technology, work with over a dozen Bay Area non-profit clients (and one international client) to put out fires, architect solid solutions, and provide excellent documentation and personable service. Prominent clients included <a href="http://www.yep.org/">Youth Employment Partnership of Oakland, Inc.</a>, <a href="http://www.whrc-access.org/">ACCESS Women&apos;s Health Justice</a>, and over a dozen others on an as-needed basis.'
 
 - company: <a href="http://www.kiva.org/">Kiva Microfunds, Inc.</a>, San Francisco, CA
   position: Systems Administrator/IT Manager
   duration: March 2008 &mdash; October 2008
-  summary: "For a prominent non-profit micro-finance
-	lending web site, supported and improved internal and
-	production systems.</p>
-
+  summary: 'For a prominent non-profit micro-finance lending web site, supported and improved internal and production systems.
 	<ul>
 	  <li>Built out and migrated to new web and database server
 	    architecture, based on CentOS 5.1, Apache 2.2, Zend PHP and
@@ -123,23 +107,16 @@ basis."
 	    roaming profiles and JungleDisk corporate backups to Amazon
 	    S3, as well as switching virus scanning to Kaspersky
 	    AntiVirus for all Microsoft Windows systems</li>
-	</ul>"
+	</ul>'
 
 
 - company: <a href="http://www.wunderground.com/">Weather Underground, Inc.</a>, San Francisco, CA
   position: Systems Administrator
   duration: September 2007 &mdash; March 2008
-  summary: "For one of the oldest weather sites on the Web,
-	support existing systems and network devices, assist software
-	developers and assist the Director of Technology in maintaining
-	three data centers.</p>
+  summary: 'For one of the oldest weather sites on the Web, support existing systems and network devices, assist software developers and assist the Director of Technology in maintaining three data centers.
 
 	<ul>
-	  <li>Cleaned main data center of old hardware, including
-	    rack-mount servers and network equipment; arranged pickup and
-	    reuse by local 501(c)(3) charity (<a href=
-	    \"http://wwww.otxwest.com/\">OTX-WEST</a>), which I
-	  selected.</li>
+	  <li>Cleaned main data center of old hardware, including rack-mount servers and network equipment; arranged pickup and reuse by local 501(c)(3) charity (<a href="http://wwww.otxwest.com/\">OTX-WEST</a>), which I selected.</li>
 
 	  <li>Supported PXELINUX diskless systems (loosely based on
 	    Slackware 9.1).</li>
@@ -203,7 +180,7 @@ basis."
 
 	  <li>Racked, cabled and configured servers, and performed
 	    general hardware upgrades.</li>
-	</ul>"
+	</ul>'
 
 
 - company: <a href="http://www.jumpcut.com/">Jumpcut.com</a> (n&eacute;e Yahoo, Inc.), San Francisco, CA
@@ -261,9 +238,7 @@ basis."
 - company: Verizon Business (n&eacute;e Totality, Inc), San Francisco, CA</a>, via Taos Mountain, Inc.
   position: Senior Systems Engineer
   duration: December 2005 &mdash; July 2006
-  summary: "Supported Verizon Business Managed Service
-	Provider clients, such as the Gap, Best Buy, American Airlines,
-	and many others, in a Service Level Agreement model:</p>
+  summary: 'Supported Verizon Business Managed Service Provider clients, such as the Gap, Best Buy, American Airlines, and many others, in a Service Level Agreement model:
 
 	<ul>
 	  <li>Improved production procedures documentation and
@@ -285,13 +260,13 @@ basis."
 	  <li>Trained new systems engineers</li>
 
 	  <li>Consistently high marks from management</li>
-	</ul>"
+	</ul>'
 
 
 - company: <a href="http://www.riverbed.com/">Riverbed, Inc</a>, San Francisco, CA
   position: Systems Administration Consultant
   duration: March 2005 &mdash; June 2005
-  summary: "Advised on and implemented the following
+  summary: 'Advised on and implemented the following
 	services:
 
 	<ul>
@@ -309,12 +284,12 @@ basis."
 
 	  <li>Documented progress and systems with Bugzilla and
 	    TWiki</li>
-	</ul>"
+	</ul>'
 
 - company: <a href="http://www.gene.com/">Genentech, Inc.</a>, South San Francisco, CA 
   position: Deployment Engineer (Consultant)
   duration: July 2003 &mdash; June 2004
-  summary:  "Contracted by former full-time supervisor:</p>
+  summary: 'Contracted by former full-time supervisor:</p>
 
 	<ul>
 	  <li>Packaged and deployed difficult multi-layered software to
@@ -331,13 +306,12 @@ basis."
 
 	  <li>Managed Linux development server relocation to data
 	    center</li>
-	</ul>"
+	</ul>'
 
 - company: <a href="http://bixbycenter.ucsf.edu/index.html">Center for Reproductive Health Research &amp; Policy</a>, University of California, San Francisco
   position: Systems Administrator (Consultant)
   duration: October 2002 &mdash; November 2003
-  summary:  "Contracted to provide the following services
-	for PhD-level researchers and staff:</p>
+  summary: 'Contracted to provide the following services for PhD-level researchers and staff:</p>
 
 	<ul>
 	  <li>Proposed and implemented web-based full-featured shared
@@ -359,22 +333,19 @@ basis."
 	    </ul>
 	  </li>
 
-	  <li>Prototyped web-based survey system <a href=
-    \"https://web.archive.org/web/20071006214224/http://gathering.itm.mh.se:80/modsurvey/\">Mod_Survey</a> (defunct)</li>
+	  <li>Prototyped web-based survey system <a href="https://web.archive.org/web/20071006214224/http://gathering.itm.mh.se:80/modsurvey/">Mod_Survey</a> (defunct)</li>
 
-	  <li>Created role-based shared folders with Windows 2000/XP
-	    \"Offline Files\" functionality</li>
+	  <li>Created role-based shared folders with Windows 2000/XP "Offline Files" functionality</li>
 
-	  <li>Security assessments, using a variety of tools, including
-	    Nessus, nmap and Ettercap</li>
+	  <li>Security assessments, using a variety of tools, including Nessus, nmap and Ettercap</li>
 
 	  <li>User Training (very high marks!)</li>
-	</ul>"
+	</ul>'
  
 - company: Denalii, Inc. (defunct), Burlingame, CA
   position: Senior Systems Engineer
   duration: March 2001 &mdash; March 2002
-  summary: "Responsible for the following systems and
+  summary: 'Responsible for the following systems and
 	services for heterogeneous Production network:
 
 	<ul>
@@ -446,13 +417,12 @@ basis."
 	for all appropriate areas, kept costs to a minimum, created
 	generally stronger and more closely held policies and
 	procedures for administration and maintenance of production
-	systems."
+	systems.'
 
 - company: Zing Networks, Inc. (defunct), San Francisco, CA
   position: Director of Network Operations (promoted)
   duration: October 1999 &mdash; December 2000
-  summary: "Responsible for the following systems and
-	services:
+  summary: 'Responsible for the following systems and services:
 
 	<ul>
 	  <li>Network Applications: Apache, Squid (HTTP accelerator
@@ -491,7 +461,7 @@ basis."
 	  <li>Added SiteSmith to maintain high levels of uptime and
 	    support</li>
 
-	  <li>Planned Globalization of Zing's Network (Japan, Europe
+	  <li>Planned Globalization of Zing&apos;s Network (Japan, Europe
 	    and US East Coast)</li>
 
 	  <li>Evaluated and recommended move to new data center
@@ -505,18 +475,15 @@ basis."
 	  <li>Supervised two Sr. Unix/Network Administrator
 	    contractors</li>
 	</ul>
-      </div>
-
-      <div>
-
-	Implemented the following office network systems from the ground up:
+	
+  Implemented the following office network systems from the ground up:
 
 	<ul>
-	  <li>VPN with Compatible System's (now owned by Cisco)
+	  <li>VPN with Compatible System&apos;s (now owned by Cisco)
 	    IntraPort 2 VPN router, with Win 95/98, NT 4.0, Linux and Mac
 	    clients</li>
 
-	  <li>MS Exchange 5.5 SP3, with TrendMicro's ScanMail for
+	  <li>MS Exchange 5.5 SP3, with TrendMicro&apos;s ScanMail for
 	    Exchange 3.0, Outlook Web Access</li>
 
 	  <li>Mapped external site e-mails to Exchange Public
@@ -535,7 +502,7 @@ basis."
 
 	  <li>Created PC purchasing forms and procedures</li>
 
-	  <li>McAfee's Total Virus Defense, managed from McAfee Network
+	  <li>McAfee&apos;s Total Virus Defense, managed from McAfee Network
 	    Management Console</li>
 
 	  <li>BoldFish mass-mail server for Linux</li>
@@ -572,5 +539,4 @@ basis."
 	3.62 to Exchange 5.5 SP3. Promoted from Systems Administrator
 	(internal) to UNIX Systems Administrator for Production (public
 	web site). Y2K updates. Supported 3 US offices, 1 Israeli
-	office."
-
+	office.'
