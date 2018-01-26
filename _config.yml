@@ -15,14 +15,14 @@ resume_title:                   "Deluxe Linux Systems Administrator"
 resume_contact_email:           "work@boldandbusted.com"
 resume_contact_telephone:       "(415) 794-5718"
 resume_contact_address:         ""
-resume_header_contact_info: ""
-resume_header_intro: "20 years experience providing improved infrastructures and workflows for a wide range of organizations and businesses. Automation and simplicity."
+resume_header_contact_info:     ""
+resume_header_intro:            "20 years experience providing improved infrastructures and development workflows for a wide range of organizations and businesses. Automation and simplicity. Curiosity is what drives me."
 
 # use "yes" to display the email contact button,
 # "no" to display an "I'm not looking for work" message,
 # or remove the resume_looking_for_work option entirely
 # to leave blank
-resume_looking_for_work:        "no"
+resume_looking_for_work:        "yes"
 
 # Decide which sections to use
 # comment out to hide
