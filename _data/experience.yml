@@ -6,11 +6,11 @@
   summary: 'Reporting directly to the VP of Engineering, I helped automate processes, improved security stances and stabilized systems and workflows.
   <ul>
     <li>Refactored inherited Terraform and Ansible infrastructure-as-code.</li>
-    <li>Began move to AWS IAM Roles for instances, improving integration with AWS Platform Services.</li>
-    <li>Prototyped Hashicorp Vault and Consul.</li>
+    <li>Created AWS IAM Instance Profiles in Terraform, streamlining integration with AWS Platform Services.</li>
+    <li>Prototyped Hashicorp Vault and Consul, in a High-Availability, clustered mode.</li>
     <li>Evaluated and implemented Trend Micro&apos;s Deep Security as a Service on all AWS hosts.</li>
     <li>Discovered, isolated and remediated a pre-existing security incident on a critical development instance.</li>
-    <li>Implemented OpenVPN Access Server for Engineering.</li>
+    <li>Implemented OpenVPN Access Server for Engineering, for access to AWS VPCs.</li>
     <li>Recommended and configured pfSense Firewall for office network, with OpenVPN access.</li>
     <li>Opened discussions with various service vendors like JumpCloud for LDAP authentication and New Relic.</li>
     <li>Initiated "Best Practices" Epics for Security, AWS, Terraform, Ansible, and others to bring attention to practices and workflows.</li>
