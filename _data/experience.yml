@@ -3,11 +3,13 @@
 - company: <a href="https://abra.com/">Abra, Inc.</a>
   position: Systems Engineer (DevOps Lead)
   duration: August, 2017 &mdash; June, 2019
-  summary: 'Reporting directly to the VP of Engineering, I helped automate processes, improved security stances and stabilized systems and workflows.
+  summary: 'Reporting directly to the VP of Engineering, I helped automate processes, improved security stances, prototyped complex comprhensive foundational solutions, and stabilized production systems and engineering workflows.
   <ul>
-    <li>Refactored inherited Terraform and Ansible infrastructure-as-code.</li>
-    <li>Created AWS IAM Instance Profiles in Terraform, streamlining integration with AWS Platform Services.</li>
-    <li>Prototyped Hashicorp Vault and Consul, in a High-Availability, clustered mode.</li>
+    <li>Refactored Terraform and Ansible infrastructure-as-code, with community-supported Terraform modules and Asible Roles.</li>
+    <li>Deployed AWS IAM Instance Profiles in Terraform, streamlining integration with AWS Platform Services.</li>
+    <li>Prototyped Hashicorp Vault (for secrets managment) and Consul (for DNS-like Service Discovery), in a High-Availability, clustered mode.</li>
+    <li>Evangelized Vault for Secrets Managemnt with senior developers.</li>
+    <li>Sent pull requests to Vault Terraform Registry modules with improvements</li>
     <li>Evaluated and implemented Trend Micro&apos;s Deep Security as a Service on all AWS hosts.</li>
     <li>Discovered, isolated and remediated a pre-existing security incident on a critical development instance.</li>
     <li>Implemented OpenVPN Access Server for Engineering, for access to AWS VPCs.</li>
@@ -164,12 +166,12 @@
 	    administration process improvements.</li>
 
 	  <li>Upgraded Awstats, and rewrote automated log processing
-	    Bash shell scripts, using \"Trampoline\"-style looping
-	    constructs to maximize usage of all CPU cores, while
-	    minimizing impact on server resources. Initiated use of
-	    non-memory intensive and non-disk intensive web server log
-	    aggregation tools. Log processing time cut by a two-thirds,
-	    and solved inconsistent data representation.</li>
+	    Bash shell scripts, using looping constructs to maximize
+      usage of all CPU cores, while minimizing impact on server
+      resources. Initiated use of non-memory intensive and
+      non-disk intensive web server log aggregation tools. Log
+      processing time cut by a two-thirds, and solved
+      inconsistent data representation.</li>
 
 	  <li>Coordinated vendor on-site maintenance and upgrades.</li>
 
