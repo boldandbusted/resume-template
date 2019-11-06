@@ -3,13 +3,14 @@
 - company: <a href="https://abra.com/">Abra, Inc.</a>
   position: Systems Engineer (DevOps Lead)
   duration: August, 2017 &mdash; June, 2019
-  summary: 'Reporting directly to the VP of Engineering, I helped automate processes, improved security stances, prototyped complex comprhensive foundational solutions, and stabilized production systems and engineering workflows.
+  summary: 'Reporting directly to the VP of Engineering, I helped automate processes, improved security stances, prototyped complex comprhensive foundational solutions (HashiCorp Vault and Consul), and stabilized production systems and engineering workflows.
   <ul>
     <li>Refactored Terraform and Ansible infrastructure-as-code, with community-supported Terraform modules and Asible Roles.</li>
     <li>Deployed AWS IAM Instance Profiles in Terraform, streamlining integration with AWS Platform Services.</li>
     <li>Prototyped Hashicorp Vault (for secrets managment) and Consul (for DNS-like Service Discovery), in a High-Availability, clustered mode.</li>
     <li>Evangelized Vault for Secrets Managemnt with senior developers.</li>
     <li>Sent pull requests to Vault Terraform Registry modules with improvements</li>
+    <li>Moved infrastructure code to Vagrant-centric testing and validation model, where appropriate
     <li>Evaluated and implemented Trend Micro&apos;s Deep Security as a Service on all AWS hosts.</li>
     <li>Discovered, isolated and remediated a pre-existing security incident on a critical development instance.</li>
     <li>Implemented OpenVPN Access Server for Engineering, for access to AWS VPCs.</li>
