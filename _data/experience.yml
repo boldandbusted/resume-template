@@ -7,10 +7,10 @@
   <ul>
     <li>Refactored Terraform and Ansible infrastructure-as-code, with community-supported Terraform modules and Asible Roles.</li>
     <li>Deployed AWS IAM Instance Profiles in Terraform, streamlining integration with AWS Platform Services.</li>
-    <li>Prototyped Hashicorp Vault (for secrets managment) and Consul (for DNS-like Service Discovery), in a High-Availability, clustered mode.</li>
-    <li>Evangelized Vault for Secrets Managemnt with senior developers.</li>
-    <li>Sent pull requests to Vault Terraform Registry modules with improvements</li>
-    <li>Moved infrastructure code to Vagrant-centric testing and validation model, where appropriate
+    <li>Prototyped Hashicorp Vault (for Secrets Management) and Consul (for DNS-like Service Discovery), in a High-Availability, clustered mode.</li>
+    <li>Evangelized Vault for Secrets Management with senior developers.</li>
+    <li>Sent pull requests to Vault Terraform Registry modules with improvements.</li>
+    <li>Moved infrastructure code to Vagrant-centric testing and validation model, where appropriate.</li>
     <li>Evaluated and implemented Trend Micro&apos;s Deep Security as a Service on all AWS hosts.</li>
     <li>Discovered, isolated and remediated a pre-existing security incident on a critical development instance.</li>
     <li>Implemented OpenVPN Access Server for Engineering, for access to AWS VPCs.</li>
