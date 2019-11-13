@@ -2,8 +2,8 @@
 ---
 - company: <a href="https://abra.com/">Abra, Inc.</a>
   position: Systems Engineer (DevOps Lead)
-  duration: August, 2017 &mdash; June, 2019
-  summary: 'Reporting directly to the VP of Engineering, I helped automate processes, improved security stances, prototyped complex comprhensive foundational solutions (HashiCorp Vault and Consul), and stabilized production systems and engineering workflows.
+  duration: August 2017 &mdash; June 2019
+  summary: 'Reporting directly to the VP of Engineering, I helped automate processes, improved security stances, prototyped complex comprehensive foundational solutions (HashiCorp Vault and Consul), and stabilized production systems and engineering workflows.
   <ul>
     <li>Refactored Terraform and Ansible infrastructure-as-code, with community-supported Terraform modules and Asible Roles.</li>
     <li>Deployed AWS IAM Instance Profiles in Terraform, streamlining integration with AWS Platform Services.</li>
@@ -22,14 +22,14 @@
 
 - company: <a href="http://www.ripple.com">Ripple, Inc.</a>
   position: Senior Technical Operations Engineer
-  duration: June, 2015 &mdash; February, 2016
+  duration: June 2015 &mdash; February 2016
   summary: 'For a blockchain-enhanced, cryptocurrency-based financial services startup, I worked as lead on projects to automate rapid, reliable deployment.
   <ul>
-    <li>Continued my deep dive into Chef and Ruby.</li>
+    <li>Building on experience gained in my previous position, continued my deep dive into Chef and Ruby.</li>
     <li>Utilized Test Kitchen for all code, and implemented code reviews for infrastructure code.</li>
     <li>Transitioned live cluster network of Ripple protocol clients from single bare-metal provider to SoftLayer.</li>
     <li>Began work on implementing Chef Provisioner for machine provisioning with Softlayer and Amazon AWS/EC2.</li>
-    <li>Saved them a bunch of fiat money by decommissioning almost one hundred orphaned servers and services.</li>
+    <li>Saved them at least $12,000 per month by decommissioning almost one hundred orphaned servers and services.</li>
     <li>Mentored sharp Desktop IT Admin on Operations concepts and career (thanks to the master SysAdmin Tom Limoncelli and crew&apos;s books).</li>
   </ul>'
 
@@ -53,21 +53,19 @@
   duration: August 2011 &mdash; August 2014
   summary: 'Oversaw legacy site "Codesion.com" aka "CVSDude" transition after acquisition, to become "cloudforge.com".
 	<ul>
-	  <li>Handled a large amount of technical debt, paid some of it down,
-	    and helped to plan out how to pay the remainder.  </li>
+	  <li>Reduced a large amount of technical debt and planned how to pay the remainder.</li>
 	  <li>Tuned MySQL, stopping database issues cold.  </li>
-	  <li>Unrusted my RedHat skills, though I wish them rusted again.  </li>
 	  <li>Converted RedHat Enterprise stack to CentOS *in-place*. </li>
-	  <li>Unfroze package upgrade process, which had been frozen in place by fear for over a year. </li>
-	  <li>48 Real servers and 5 "cloud" virtualized servers at SoftLayer, in multiple datacenters. </li>
-	  <li>Learned Puppet (they sent me to a PuppetLabs course, which was nice), and used knowledge to completely revamp existing Puppet legacy infrastructure.</li>
+	  <li>Restarted package upgrade process, which had been frozen in place by fear for over a year. </li>
+	  <li>Lead a team of 3 engineers in maintaining 48 physical servers and 5 "cloud" virtualized servers at SoftLayer, in multiple datacenters. </li>
+	  <li>Learned Puppet and completely revamp existing Puppet legacy infrastructure for much improved reliability, repeatability and code reuse.</li>
 	</ul>'
 
 
 - company: <a href="http://www.giantrabbit.com/">Giant Rabbit, LLC</a>, Berkeley, CA (via my company <a href="http://www.boldandbusted.com/">Bold and Busted, LLC</a>)'
   position: System Architect/Systems Administrator/Computer Duster
   duration: April 2009 &mdash; September 2011
-  summary: 'For a IT consulting company dedicated to supporting non-profits with size-appropriate technology, work with over a dozen Bay Area non-profit clients (and one international client) to put out fires, architect solid solutions, and provide excellent documentation and personable service. Prominent clients included <a href="http://www.yep.org/">Youth Employment Partnership of Oakland, Inc.</a>, <a href="http://www.whrc-access.org/">ACCESS Women&apos;s Health Justice</a>, and over a dozen others on an as-needed basis.'
+  summary: 'For an IT consulting company dedicated to supporting non-profits with size-appropriate technology, worked with over a dozen Bay Area non-profit clients (and one international client) to put out fires, architect solid solutions, and provide excellent documentation and personable service. Prominent clients included <a href="http://www.yep.org/">Youth Employment Partnership of Oakland, Inc.</a>, <a href="http://www.whrc-access.org/">ACCESS Women&apos;s Health Justice</a>, and over a dozen others on an as-needed basis.'
 
 - company: <a href="http://www.kiva.org/">Kiva Microfunds, Inc.</a>, San Francisco, CA
   position: Systems Administrator/IT Manager
@@ -118,7 +116,7 @@
 - company: <a href="http://www.wunderground.com/">Weather Underground, Inc.</a>, San Francisco, CA
   position: Systems Administrator
   duration: September 2007 &mdash; March 2008
-  summary: 'For one of the oldest weather sites on the Web, support existing systems and network devices, assist software developers and assist the Director of Technology in maintaining three data centers.
+  summary: 'For one of the oldest weather sites on the Web, supported existing systems and network devices, assisted software developers and assisted the Director of Technology in maintaining three data centers.
 
 	<ul>
 	  <li>Cleaned main data center of old hardware, including rack-mount servers and network equipment; arranged pickup and reuse by local 501(c)(3) charity (<a href="http://wwww.otxwest.com/\">OTX-WEST</a>), which I selected.</li>
