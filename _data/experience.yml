@@ -1,5 +1,26 @@
 # Jobs
 ---
+- company: <a href="https://ahead.com/">AHEAD, Inc.</a>
+  position: Computing Automation Consultant (DevOps/SRE/Cloud Automation)
+  duration: December 2019 &mdash; Present
+  summary: 'For a Chicago-based Technical Services company, provide technical oversight, demonstrations, advice and code development to internal technical teams of AHEAD&apos;s large corporate clients (Advantasure, Harley-Davidson, H&R Block, WideOpenWest! among others). Also provide assistance to AHEAD for internally-focused technical initiatives. Reading "The Phoenix Project" by Gene Kim, et al. for guidance and scoping. Member of the "DevOps" team, with a focus on various HashiCorp toolsets, from Terraform and Vagrant to Vault and Consul. Introduced "Documentation as Code" workflows and techniques to clients.
+
+Some highlights:
+  <ul>
+    <li>Created a CI/CD and PR-based workflow with GitHub Actions and Terraform on AWS-hosted "Spot Instances" - keeping costs low - no jobs, no cost!</li>
+    <li>Python project to work with PynamoDB (for a more &lsquo;Pythonic&rsquo; AWS DynamoDB interface than Boto3&apos;s native interface) in AWS Lambda with deployment managed by the Serverless Framework.</li>
+    <li>To enhance empathy for developers, taught infrastructure team at a client how to develop a Python Flask tutorial app, but with Test Driven Development, and pair programming techniques.</li>
+    <li>Guided clients using Miro (https://miro.com/) for client workshops, design sessions, and brainstorming sessions, with solid success.</li>
+</ul>
+
+Certifications gained:
+<ul>
+  <li>Certified Kubernetes Application Developer</li>
+  <li>Certified Kubernetes Administrator</li>
+  <li>HashiCorp Terraform Associate</li>
+</ul>
+
+(Remote position with some travel.)'
 - company: <a href="https://abra.com/">Abra, Inc.</a>
   position: Systems Engineer (DevOps Lead)
   duration: August 2017 &mdash; June 2019
