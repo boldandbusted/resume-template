@@ -1,5 +1,19 @@
 # Jobs
 ---
+
+- company: BoldAndBusted Consulting
+  position: Sole Proprietor
+  duration: November 2022 &mdash; Present
+  summary: 'My side-gigs for small and medium-sized shops! Coaching and coding for fun and profit.
+
+  Some highlights:
+    <ul>
+    <li>DevOps/Site Reliability Engineering coaching for the "full org chart", from CEO to front-line developers<li>
+    <li>Advised a CEO on how to organize their engineering department, and how to create a high-performance, high-reliability software by focusing on reducing complexity for all developers, and creating positive feedback loops from hypotheses, fast failure and evaluations.</li>
+    <li>Advised a small environmental reclimation company&apos;s CEO on how to approach building an ERP platform themselves, usign Xero and the Xero ecosystem</li>
+    <li>Advised a CEO, their head of engineering on how to improve communications between their "devops engineer" and their "application developers". Coached their frontline engineer through creating a Internal Developer Platform, using Kubernetes, Backstage, and a GitOps approach.</li>
+    </ul>'
+
 - company: <a href="https://ahead.com/">AHEAD, Inc.</a>
   position: Computing Automation Consultant (DevOps/SRE/Cloud Automation)
   duration: December 2019 &mdash; Present
@@ -7,6 +21,7 @@
 
 Some highlights:
   <ul>
+    <li>Deployed and configured Vault Enterprise to on-premise hosts for a major telecommunications company, for use with Kubernetes, using Ansible, and Vagrant as a local testing environment to reduce intra-environment variables.</li>
     <li>Created a CI/CD and PR-based workflow with GitHub Actions and Terraform on AWS-hosted "Spot Instances" - keeping costs low - no jobs, no cost!</li>
     <li>Python project to work with PynamoDB (for a more &lsquo;Pythonic&rsquo; AWS DynamoDB interface than Boto3&apos;s native interface) in AWS Lambda with deployment managed by the Serverless Framework.</li>
     <li>To enhance empathy for developers, taught infrastructure team at a client how to develop a Python Flask tutorial app, but with Test Driven Development, and pair programming techniques.</li>
@@ -17,6 +32,7 @@ Certifications gained:
 <ul>
   <li>Certified Kubernetes Application Developer</li>
   <li>Certified Kubernetes Administrator</li>
+  <li>Certified Kubernetes Security Specialist</li>
   <li>HashiCorp Terraform Associate</li>
 </ul>
 
@@ -83,7 +99,7 @@ Certifications gained:
 	</ul>'
 
 
-- company: <a href="http://www.giantrabbit.com/">Giant Rabbit, LLC</a>, Berkeley, CA (via my company <a href="http://www.boldandbusted.com/">Bold and Busted, LLC</a>)'
+- company: <a href="http://www.giantrabbit.com/">Giant Rabbit, LLC</a>, Berkeley, CA (via my now-defunct company <i>Bold and Busted, LLC</i>)'
   position: System Architect/Systems Administrator/Computer Duster
   duration: April 2009 &mdash; September 2011
   summary: 'For an IT consulting company dedicated to supporting non-profits with size-appropriate technology, worked with over a dozen Bay Area non-profit clients (and one international client) to put out fires, architect solid solutions, and provide excellent documentation and personable service. Prominent clients included <a href="http://www.yep.org/">Youth Employment Partnership of Oakland, Inc.</a>, <a href="http://www.whrc-access.org/">ACCESS Women&apos;s Health Justice</a>, and over a dozen others on an as-needed basis.'
