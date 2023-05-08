@@ -1,4 +1,13 @@
 # Recognitions
+- award: Certified Kubernetes Administrator
+  organization: <a href="https://www.credly.com/badges/94d02574-82b3-4fb9-9d0b-5b2a44bb2994/public_url">The Linux Foundation</a>
+  year: 2021
+- award: Certified Kubernetes Security Specialist
+  organization: <a href="https://www.credly.com/badges/be67f68f-c3de-404c-bbdb-f047b12be20b/public_url">The Linux Foundation</a>
+  year: 2022
+- award: Certified Kubernetes Application Developer
+  organization: <a href="https://www.credly.com/badges/e049c608-0d8d-4bfb-bedb-c2ced61a2919/public_url">The Linux Foundation</a>
+  year: 2021
 - award: Fixing it (and Making it Faster)
   organization: <a href="https://genentech.com/">Genentech, Inc.</a>
   year: 1998

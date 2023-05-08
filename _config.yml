@@ -11,12 +11,12 @@ sass:
 # Resume settings
 resume_avatar:                  "true"
 resume_name:                    "Jesse Adelman"
-resume_title:                   "Linux Systems Engineer (DevOps/SRE)"
+resume_title:                   "Linux Systems Engineer (SRE/Platform Engineering)"
 resume_contact_email:           "work@boldandbusted.com"
 resume_contact_telephone:       "(415) 794-5718"
 resume_contact_address:         ""
 resume_header_contact_info:     ""
-resume_header_intro:            "20 years experience providing improved infrastructures and development workflows for a wide range of organizations and businesses. Automation and simplicity. Curiosity is what drives me."
+resume_header_intro:            "Over 20 years experience providing improved infrastructures and development workflows for a wide range of organizations and businesses. Automation and simplicity. Curiosity is what drives me."
 
 # use "yes" to display the email contact button,
 # "no" to display an "I'm not looking for work" message,
