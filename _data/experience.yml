@@ -9,8 +9,8 @@
     <ul>
     <li>DevOps/Site Reliability Engineering coaching for the "full org chart", from CEO to front-line developers</li>
     <li>Advised a CEO on how to organize their engineering department, and how to create a high-performance, high-reliability software by focusing on reducing complexity for all developers, and creating positive feedback loops from hypotheses, fast failure and evaluations.</li>
-    <li>Advised a small environmental reclimation company&apos;s CEO on how to approach building an ERP platform themselves, usign Xero and the Xero ecosystem</li>
-    <li>Advised a CEO, their head of engineering on how to improve communications between their "devops engineer" and their "application developers". Coached their frontline engineer through creating a Internal Developer Platform, using Kubernetes, Backstage, and a GitOps approach.</li>
+    <li>Advised a small environmental reclamation company&apos;s CEO on how to approach building an ERP platform themselves, usign Xero and the Xero ecosystem</li>
+    <li>Advised a CEO, their head of engineering on how to improve communications between their "devops engineer" and their "application developers". Coached their front-line engineer through creating a Internal Developer Platform, using Kubernetes, Backstage, and a GitOps approach.</li>
     </ul>'
 
 - company: <a href="https://ahead.com/">AHEAD, Inc.</a>
@@ -41,7 +41,8 @@ Certifications gained:
   duration: August 2017 &mdash; June 2019
   summary: 'Reporting directly to the VP of Engineering, I helped automate processes, improved security stances, prototyped complex comprehensive foundational solutions (HashiCorp Vault and Consul), and stabilized production systems and engineering workflows.
   <ul>
-    <li>Refactored Terraform and Ansible infrastructure-as-code, with community-supported Terraform modules and Asible Roles.</li>
+    <li>Refactored Terraform and Ansible infrastructure-as-code, with community-supported Terraform modules and Ansible Roles.</li>
+    <li>Introduced "Feature Flags" for infrastructure with Terraform to promote shared responsibility</li>
     <li>Deployed AWS IAM Instance Profiles in Terraform, streamlining integration with AWS Platform Services.</li>
     <li>Prototyped Hashicorp Vault (for Secrets Management) and Consul (for DNS-like Service Discovery), in a High-Availability, clustered mode.</li>
     <li>Evangelized Vault for Secrets Management with senior developers.</li>
@@ -114,34 +115,22 @@ Certifications gained:
 	    4.4</li>
 
 	  <li>Implemented load-balancing across web hosts</li>
-
 	  <li>Implemented MySQL replication, MAATKIT MySQL tools</li>
-
-	  <li>Implemented Nagios, NagiosQL, Cacti and custom Cacti HTTP
-	    transaction latency scripts and graphs</li>
-
-	  <li>Tuned Apache, PHP and MySQL, based on load, informed by
-	    benchmarks and organizational goals</li>
-
+	  <li>Implemented Nagios, NagiosQL, Cacti and custom Cacti HTTP transaction latency scripts and graphs</li>
+	  <li>Tuned Apache, PHP and MySQL, based on load, informed by benchmarks and organizational goals</li>
 	  <li>Implemented log file summarizers pflogsumm and logwatch,
 	    improving visibility into production system health for
 	    development team</li>
-
 	  <li>Documented system build out recipes and architecture
 	    overviews</li>
-
 	  <li>Implemented the use of Subversion for configuration file
 	    change control</li>
-
 	  <li>Created code deployment scripts</li>
-
 	  <li>Initiated alternative co-location vendor
 	    communications</li>
-
 	  <li>Identified administration and performance problems with
 	    locked-down virtualized guest hosts and lack of visibility
 	    into system performance metrics</li>
-
 	  <li>For office network, implemented Windows Active Directory
 	    roaming profiles and JungleDisk corporate backups to Amazon
 	    S3, as well as switching virus scanning to Kaspersky
@@ -156,33 +145,23 @@ Certifications gained:
 
 	<ul>
 	  <li>Cleaned main data center of old hardware, including rack-mount servers and network equipment; arranged pickup and reuse by local 501(c)(3) charity (<a href="http://wwww.otxwest.com/\">OTX-WEST</a>), which I selected.</li>
-
 	  <li>Supported PXELINUX diskless systems (loosely based on
 	    Slackware 9.1).</li>
-
 	  <li>Implemented NTPd (with multicast updates) across diskless
 	    hosts.</li>
-
 	  <li>Created more streamlined and tuned diskless-oriented
 	    Linux Kernel builds.</li>
-
 	  <li>Streamlined BIND configuration files for ease of updates
 	    and standardized shared options, and implemented master/slave
 	    BIND servers with NOTIFY updates to slaves and to ISP DNS
 	    servers.</li>
-
 	  <li>Assisted with BIOS reconfigurations to fix boot up
 	    problems, and tuning for PCI Express.</li>
-
 	  <li>Upgraded internal MediaWiki instance to latest
 	    version.</li>
-
 	  <li>Documented previously under-documented systems.</li>
-
 	  <li>Handled system and application outages.</li>
-
 	  <li>Assisted with planned data center power outage.</li>
-
 	  <li>Proposed and implemented home-grown Highly Available NFS
 	    filer with RAID5 providing 5.4 TB usable storage, using
 	    Gentoo Linux, Heartbeat, DRBD, and Areca 1220 RAID controller
@@ -190,16 +169,12 @@ Certifications gained:
 	    virtual IP failover. Provided benchmarks, determining better
 	    hardware RAID controller models and facilitating kernel
 	    tuning.</li>
-
 	  <li>Improved communications from Operations to the
 	    development and application teams.</li>
-
 	  <li>Fixed a variety of problems with NFS, recommended
 	    standard client mount options.</li>
-
 	  <li>Advised senior staff on system performance and
 	    administration process improvements.</li>
-
 	  <li>Upgraded Awstats, and rewrote automated log processing
 	    Bash shell scripts, using looping constructs to maximize
       usage of all CPU cores, while minimizing impact on server
@@ -207,16 +182,12 @@ Certifications gained:
       non-disk intensive web server log aggregation tools. Log
       processing time cut by a two-thirds, and solved
       inconsistent data representation.</li>
-
 	  <li>Coordinated vendor on-site maintenance and upgrades.</li>
-
 	  <li>Server upgrades and service migrations (Slackware 9.1 to
 	    12.0), including Sendmail, milter, and Apache, and internal
 	    user directories.</li>
-
 	  <li>Assisted developers with proper system utility usage, and
 	    developer virtual machine development OS instances.</li>
-
 	  <li>Racked, cabled and configured servers, and performed
 	    general hardware upgrades.</li>
 	</ul>'
@@ -232,44 +203,32 @@ Certifications gained:
 	<ul>
 	  <li>Production applications supported include Apache 2.0.X,
 	    PHP 5.X, MySQL 5.X, all running under Gentoo Linux</li>
-
 	  <li>Performed testing and configuration optimization</li>
-
 	  <li>Polished Cacti and Nagios implementations, implemented
 	    teMySQL templates, and created a custom script, data sources
 	    and templates for HTTP latency graphing</li>
-
 	  <li>Implemented new Apache SSL hosts</li>
-
 	  <li>Implemented OpenVPN LAN-to-LAN VPN between office and
 	    co-location facility</li>
-
 	  <li>Created \"chroot jails\" for various production
 	    applications, using the <a href=
 	    \"http://www.jmcresearch.com/projects/jail/\">Jail shell</a>,
 	  sudo, and a bit of shell scripting, with an aim to make safer
 	  calls from production applications to external
 	  applications</li>
-
 	  <li>Implemented SQLGrey for managed Postfix Grey-listing</li>
-
 	  <li>Added secondary backup \"store-and-forward\" Postfix MTA
 	    with SQLGrey integration</li>
-
 	  <li>Worked with CTO on development of applications, including
 	    creating development environments using VMWare, WINE and Xorg
 	    X11 drivers</li>
-
 	  <li>Implemented OpenWrt (http://www.openwrt.org/) on office
 	    router</li>
-
 	  <li>Managed corporate desktop systems migration to Yahoo's
 	    infrastructure</li>
-
 	  <li>Configured Yahoo's custom Apache and PHP, and deployed
 	    site code to Yahoo! production systems as a part of Yahoo's
 	    acquisition of Jumpcut</li>
-
 	  <li>Wiki'd documentation of systems and project planning</li>
 	</ul>"
 
@@ -282,25 +241,19 @@ Certifications gained:
 	<ul>
 	  <li>Improved production procedures documentation and
 	    process</li>
-
 	  <li>Supported business-critical Solaris, Red Hat Linux,
 	    HP-UX, AIX, and Windows systems and applications.
 	    &ldquo;Unrusted&rdquo; proprietary UNIX skillset</li>
-
 	  <li>Suggested, and helped pilot, Plone/Zope CMS for
 	    replacement of aging CVS-updated AFT/HTML documentation
 	    system. Worked with Perl programmer to create automated site
 	    scraping for deployment of read-only version of Plone site,
 	    using Bash, cron and wget</li>
-
 	  <li>Resolved client issues alongside database administrators
 	    and network engineers</li>
-
 	  <li>Trained new systems engineers</li>
-
 	  <li>Consistently high marks from management</li>
 	</ul>'
-
 
 - company: <a href="http://www.riverbed.com/">Riverbed, Inc</a>, San Francisco, CA
   position: Systems Administration Consultant
@@ -311,16 +264,12 @@ Certifications gained:
 	<ul>
 	  <li>Assisted the Systems Administrator in closing a backlog
 	    of requests</li>
-
 	  <li>Implemented a spam flagging system using Postfix and
 	    DSPAM</li>
-
 	  <li>Upgraded internally-facing wiki (TWiki) to latest stable
 	    version</li>
-
 	  <li>Implemented a VPN solution with OpenVPN, and added to the
 	    OpenVPN codebase</li>
-
 	  <li>Documented progress and systems with Bugzilla and
 	    TWiki</li>
 	</ul>'
@@ -334,15 +283,12 @@ Certifications gained:
 	  <li>Packaged and deployed difficult multi-layered software to
 	    over 1200 Windows workstations, in a validated, controlled
 	    and FDA-regulated environment</li>
-
 	  <li>Wrote Perl scripts to automate local configuration
 	    changes and systems administration on Windows
 	    workstations</li>
-
 	  <li>Prototyped and assisted in the evaluation of Gentoo
 	    Linux/Zope Content Management Frameworks development and
 	    staging servers</li>
-
 	  <li>Managed Linux development server relocation to data
 	    center</li>
 	</ul>'
@@ -355,29 +301,21 @@ Certifications gained:
 	<ul>
 	  <li>Proposed and implemented web-based full-featured shared
 	    calendaring system
-
 	    <ul>
 	      <li>Reduced costs by re-purposing older hardware</li>
-
 	      <li>Used Red Hat GNU/Linux 7.3., stripped down to HTTP,
 		HTTPS, NTP and SSH network services, with Big Brother
 		1.9c for monitoring</li>
-
 	      <li>Installed and configured <a href=
 	      \"http://www.math.utexas.edu/webcalendar/\">Web
 	      Calendar</a></li>
-
 	      <li>Used iptables to restrict access and usage to two
 		subnets</li>
 	    </ul>
 	  </li>
-
 	  <li>Prototyped web-based survey system <a href="https://web.archive.org/web/20071006214224/http://gathering.itm.mh.se:80/modsurvey/">Mod_Survey</a> (defunct)</li>
-
 	  <li>Created role-based shared folders with Windows 2000/XP "Offline Files" functionality</li>
-
 	  <li>Security assessments, using a variety of tools, including Nessus, nmap and Ettercap</li>
-
 	  <li>User Training (very high marks!)</li>
 	</ul>'
  
@@ -390,58 +328,43 @@ Certifications gained:
 	<ul>
 	  <li>Network Applications: BIND 8, ProFTPd, Apache, NTP,
 	    OpenSSH/SFTP</li>
-
 	  <li>Web Application Platform: Oracle 8, Orion Application
 	    Server, Apache, PHP 4, Sawmill web log analyzer</li>
-
 	  <li>System Monitoring: Big Brother, Syslog (centralized)</li>
-
 	  <li>Hardware: Sun/Intel</li>
-
 	  <li>Operating Systems: Solaris 8, Red Hat Linux 6.2 &amp;
 	    7.1</li>
-
 	  <li>Network devices: Cisco (3600 Routers, 4006 Smart
 	    Switches, ArrowPoint load balancers), Netscreen 100
 	    firewalls</li>
 	</ul>
 
 	Supervised the following projects:
-
 	<ul>
 	  <li>Rolled out NTP to all hosts, syncing to both internal
 	    servers and external time servers</li>
-
 	  <li>Rolled out Big Brother, for host monitoring, role-based
 	    paging, and uptime tracking</li>
-
 	  <li>Migrated HTML content from Roxen to Apache</li>
-
 	  <li>&ldquo;In-sourced&rdquo; corporate web site, DNS, and
 	    network administration (phased out SiteSmith)</li>
-
 	  <li>Performed and managed technical aspects of closing
 	    engineering-centered office</li>
-
 	  <li>Maintained production Perl environment, including module
 	    maintenance, configuration and updates (DBI, DBD::Oracle,
 	    MD5, etc.)</li>
-
 	  <li>Deployed applications onto Orion J2EE Application Server
 	    (1.5.2), resolved Windows-to-UNIX migration issues</li>
-
 	  <li>Quickly and thoroughly undid sloppy administration
 	    practices of previous Systems Administrator, including
 	    correcting bad kernel build from unstable kernel tree,
 	    remaking DNS structure and updating many applications for
 	    security and bugfixes</li>
-
 	  <li>Implemented security policies, including password aging
 	    and auditing, regular Nessus scanning, regular network packet
 	    sniffing using snoop (Solaris), tcpdump (Linux), Ethereal for
 	    capture and analysis (Linux &amp; Windows), and nmap (both
 	    external and internal network service scanning)</li>
-
 	  <li>Kept documentation up to date. Worked closely with Senior
 	    Oracle DBA to both maintain and improve current Oracle
 	    administration on Solaris, rolled-out Oracle on Linux, and
@@ -467,26 +390,19 @@ Certifications gained:
 	  <li>Network Applications: Apache, Squid (HTTP accelerator
 	    mode), Sendmail, BoldFish (mass e-mailing server),
 	    OpenSSH</li>
-
 	  <li>Web Application Platform: Apache, Squid, mod_perl, Mason,
 	    Oracle</li>
-
 	  <li>Monitoring/Reporting: Aria Web Tracking, Big Brother,
 	    MRTG, PIXlog, LogWatch, swatch</li>
-
 	  <li>Hardware: Mostly Intel, with Sun for Oracle (E4500
 	    primary, E3500 standby)</li>
-
 	  <li>Storage: EMC Symmetrix drive arrays and Celerra File
 	    Server, with 3 TB usable storage, Legato Networker with
 	    SpectraLogic Bullfrog AIT-1 tape jukebox</li>
-
 	  <li>Operating Systems: RedHat Linux 6.2, Solaris 7</li>
-
 	  <li>Network devices: Cisco PIX firewalls, Foundry Networks
 	    (ServerIron (Layer 7 switch), NetIron (Layer 3 switch), 3Com
 	    BayStack 350 (Layer 3 switch), point-to-point T1</li>
-
 	  <li>Vendor Relationships: Exodus, VALinux, Sun, SiteSmith,
 	    Redapt, GlobalCenter, Envive, Akamai, CDW</li>
 	</ul>
@@ -496,21 +412,15 @@ Certifications gained:
 	<ul>
 	  <li>Rolled out of new EMC Symmetrix node, adding 1.5TB of
 	    usable storage for photo &amp; video storage</li>
-
 	  <li>Added SiteSmith to maintain high levels of uptime and
 	    support</li>
-
 	  <li>Planned Globalization of Zing&apos;s Network (Japan, Europe
 	    and US East Coast)</li>
-
 	  <li>Evaluated and recommended move to new data center
 	    (GlobalCenter to replace Exodus Communications)</li>
-
 	  <li>Supervised install and maintained Aria Web Monitoring
 	    system</li>
-
 	  <li>Akamized new sites static content</li>
-
 	  <li>Supervised two Sr. Unix/Network Administrator
 	    contractors</li>
 	</ul>
@@ -521,33 +431,23 @@ Certifications gained:
 	  <li>VPN with Compatible System&apos;s (now owned by Cisco)
 	    IntraPort 2 VPN router, with Win 95/98, NT 4.0, Linux and Mac
 	    clients</li>
-
 	  <li>MS Exchange 5.5 SP3, with TrendMicro&apos;s ScanMail for
 	    Exchange 3.0, Outlook Web Access</li>
-
 	  <li>Mapped external site e-mails to Exchange Public
 	    Folders</li>
-
 	  <li>Rolled out Outlook 2000, gave 3 classes for users, with
 	    rave reviews</li>
-
 	  <li>ARCServeIT 6.61 for NT, using OFA, Exchange Client,
 	    Client for UNIX (Solaris), Tape Library Option (with 30-slot
 	    SpectraLogic Treefrog tape autoloader with 1 AIT-2 drive) on
 	    5-day Differential rotation</li>
-
 	  <li>Reduced PC architecture to 3 major vendors (Dell, Apple,
 	    IBM), and 5 models tailored to company needs</li>
-
 	  <li>Created PC purchasing forms and procedures</li>
-
 	  <li>McAfee&apos;s Total Virus Defense, managed from McAfee Network
 	    Management Console</li>
-
 	  <li>BoldFish mass-mail server for Linux</li>
-
 	  <li>Negotiated Microsoft Open License</li>
-
 	  <li>Employee Purchase Program with CDW</li>
 	</ul>
 
@@ -556,18 +456,13 @@ Certifications gained:
 	<ul>
 	  <li>Microsoft DNS &amp; DNS/DHCP/WINS (maintained static
 	    routes, migrated DNS to new server)</li>
-
 	  <li>Apache 1.3.12 on Linux, IIS 4.0</li>
-
 	  <li>2 NT Domains, with 9 NT 4.0 SP6a servers and 50 desktop
 	    and notebook PCs and 6 Macs</li>
-
 	  <li>HP EtherJet (installed internal and external print device
 	    servers)</li>
-
 	  <li>Installed &amp; maintained co-located servers at Exodus
 	    Communications in Santa Clara</li>
-
 	  <li>BigBrother Network Monitor on Linux</li>
 	</ul>
 
