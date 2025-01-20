@@ -254,6 +254,7 @@ PLATFORMS
 
 DEPENDENCIES
   github-pages
+  jekyll (~> 3.9)
   webrick (~> 1.8)
 
 BUNDLED WITH
