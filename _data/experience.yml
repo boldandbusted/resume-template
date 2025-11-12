@@ -1,17 +1,30 @@
 # Jobs
 ---
+- company: iManage, LLC
+  position: Senior Site Reliability Engineer
+  duration: March 2025 &mdash; Present
+  summary: 'For a Chicago-based SaaS company serving large law firms, I work with a team of engineers to support an interesting .NET platform used to assist law firms in determining conflicts of interest between teams of attorneys and their clients, among other critical insights.
+
+  Some highlights:
+    <ul>
+    <li>Assisted new Product Manager in assessing the product.</li>
+    <li>Presented a calm, consistent voice in my team and with other engineers around Continuous Delivery and SRE principles.</li>
+    <li>Began reforms and refactorings of Terraform/OpenTofu code.</li>
+    <li>Brought "Material for MkDocs" to manage the view of Markdown-based documentation, automated with GitHub Actions.</li>
+    </ul>'
+
 - company: BoldAndBusted Consulting
   position: Sole Proprietor
   duration: November 2022 &mdash; Present
   summary: 'My side-gigs for small and medium-sized shops! Coaching and coding for fun and profit.
 
-  Some highlights:
-    <ul>
-    <li>DevOps/Site Reliability Engineering coaching for the "full org chart", from CEO to front-line developers</li>
+Some highlights:
+<ul>
+    <li>DevOps/Site Reliability Engineering coaching for the "full org chart", from CEO to front-line developers.</li>
     <li>Advised a CEO on how to organize their engineering department, and how to create a high-performance, high-reliability software by focusing on reducing complexity for all developers, and creating positive feedback loops from hypotheses, fast failure and evaluations.</li>
     <li>Advised a small environmental reclamation company&apos;s CEO on how to approach building an ERP platform themselves, usign Xero and the Xero ecosystem</li>
     <li>Advised a CEO, their head of engineering on how to improve communications between their "devops engineer" and their "application developers". Coached their front-line engineer through creating a Internal Developer Platform, using Kubernetes, Backstage, and a GitOps approach.</li>
-    </ul>'
+</ul>'
 
 - company: <a href="https://ahead.com/">AHEAD, Inc.</a>
   position: Computing Automation Consultant (DevOps/SRE/Cloud Automation)
