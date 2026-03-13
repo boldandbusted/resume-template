@@ -22,7 +22,7 @@ Some highlights:
 <ul>
     <li>DevOps/Site Reliability Engineering coaching for the "full org chart", from CEO to front-line developers.</li>
     <li>Advised a CEO on how to organize their engineering department, and how to create a high-performance, high-reliability software by focusing on reducing complexity for all developers, and creating positive feedback loops from hypotheses, fast failure and evaluations.</li>
-    <li>Advised a small environmental reclamation company&apos;s CEO on how to approach building an ERP platform themselves, usign Xero and the Xero ecosystem</li>
+    <li>Advised a small environmental reclamation company&apos;s CEO on how to approach building an ERP platform themselves, using Xero and the Xero ecosystem</li>
     <li>Advised a CEO, their head of engineering on how to improve communications between their "devops engineer" and their "application developers". Coached their front-line engineer through creating a Internal Developer Platform, using Kubernetes, Backstage, and a GitOps approach.</li>
 </ul>'
 
